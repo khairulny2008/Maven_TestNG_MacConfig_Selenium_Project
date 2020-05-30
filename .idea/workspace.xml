@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d882097-2cdb-4cab-8da5-d613e316fe39" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazon/report-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Screenshots/testSearchBox (05.27.2020-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/testhome/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/testhome/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/2020-05-27T19-14-33_512-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/2020-05-27T19-14-33_512.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/2020-05-27T22-33-14_114.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-testhome.TestHomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-testhome.TestHomePage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/BrowserDriver/mac/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/BrowserDriver/mac/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cazWGgqZOHLpNdryXPKh4LOyLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Amazon" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Suit1">
+    <configuration name="Suit1" type="TestNG" temporary="true">
+      <module name="Amazon" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/denysmyronenko/IdeaProjects/Learn_WebAutomation_Framework_WeekDays_Winter_NY2020/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" nameIsGenerated="true">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Suit1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d882097-2cdb-4cab-8da5-d613e316fe39" name="Default Changelist" comment="" />
+      <created>1590781521260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590781521260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590782426311">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="666" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1590782426311" />
+    <state x="752" y="379" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590785907892">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="752" y="379" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1097@0.23.1792.1097" timestamp="1590785907892" />
+    <state x="939" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590782047155">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="939" y="345" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1590782047155" />
+    <state width="1240" height="295" key="GridCell.Tab.0.bottom" timestamp="1590808471372">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1792" height="326" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1590783448451" />
+    <state width="1240" height="295" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590808471372" />
+    <state width="1240" height="295" key="GridCell.Tab.0.center" timestamp="1590808471371">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1792" height="326" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1590783448450" />
+    <state width="1240" height="295" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590808471371" />
+    <state width="1240" height="295" key="GridCell.Tab.0.left" timestamp="1590808471371">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1792" height="326" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1590783448450" />
+    <state width="1240" height="295" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590808471371" />
+    <state width="1240" height="295" key="GridCell.Tab.0.right" timestamp="1590808471371">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1792" height="326" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1590783448451" />
+    <state width="1240" height="295" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590808471371" />
+    <state width="1467" height="368" key="GridCell.Tab.1.bottom" timestamp="1590795721078">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1467" height="368" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1590795721078" />
+    <state width="1467" height="368" key="GridCell.Tab.1.center" timestamp="1590795721077">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1467" height="368" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1590795721077" />
+    <state width="1467" height="368" key="GridCell.Tab.1.left" timestamp="1590795721077">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1467" height="368" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1590795721077" />
+    <state width="1467" height="368" key="GridCell.Tab.1.right" timestamp="1590795721078">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1467" height="368" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1590795721078" />
+    <state x="23" y="251" key="SettingsEditor" timestamp="1590807926634">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="23" y="251" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1590807926634" />
+    <state x="603" y="452" width="624" height="554" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1590797592086">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="603" y="452" width="624" height="554" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1590797592086" />
+    <state x="422" y="277" width="670" height="676" key="search.everywhere.popup" timestamp="1590807149831">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="422" y="277" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1590807149831" />
+  </component>
+</project>

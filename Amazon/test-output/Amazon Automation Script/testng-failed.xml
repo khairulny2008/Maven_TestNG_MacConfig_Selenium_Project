@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Amazon Automation Script]" guice-stage="DEVELOPMENT" verbose="2">
+  <parameter name="os" value="OS X"/>
+  <parameter name="os_version" value="Catalina"/>
+  <parameter name="browserVersion" value="83"/>
+  <parameter name="browserName" value="chrome"/>
+  <parameter name="url" value="https://www.amazon.com"/>
+  <test thread-count="5" name="Amazon Home(failed)" verbose="2">
+    <classes>
+      <class name="testhome.TestHomePage">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="testSearchBox"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="generateReport"/>
+          <include name="cleanUp"/>
+          <include name="extentSetup"/>
+        </methods>
+      </class> <!-- testhome.TestHomePage -->
+    </classes>
+  </test> <!-- Amazon Home(failed) -->
+</suite> <!-- Failed suite [Amazon Automation Script] -->

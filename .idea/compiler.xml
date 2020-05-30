@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Generic" />
+        <module name="CNN" />
+        <module name="Amazon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Amazon" target="1.8" />
+      <module name="CNN" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="Learn_WebAutomation_Framework_WeekDays_Winter_NY2020" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
