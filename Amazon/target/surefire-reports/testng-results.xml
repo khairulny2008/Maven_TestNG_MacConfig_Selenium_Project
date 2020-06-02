@@ -5,12 +5,12 @@
       <![CDATA[Extent Report Directory/Users/denysmyronenko/IdeaProjects/Learn_WebAutomation_Framework_WeekDays_Winter_NY2020/Amazon/target/surefire-reports/html]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-05-29T23:14:33 GMT-04:00" name="Amazon Automation Script" finished-at="2020-05-29T23:14:38 GMT-04:00" duration-ms="4357">
+  <suite started-at="2020-05-31T15:57:08 GMT-04:00" name="Amazon Automation Script" finished-at="2020-05-31T15:57:18 GMT-04:00" duration-ms="9923">
     <groups>
     </groups>
-    <test started-at="2020-05-29T23:14:33 GMT-04:00" name="Amazon Home" finished-at="2020-05-29T23:14:38 GMT-04:00" duration-ms="4357">
+    <test started-at="2020-05-31T15:57:08 GMT-04:00" name="Amazon Home" finished-at="2020-05-31T15:57:18 GMT-04:00" duration-ms="9923">
       <class name="testhome.TestHomePage">
-        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:33 GMT-04:00" name="extentSetup" finished-at="2020-05-29T23:14:33 GMT-04:00" duration-ms="117" status="PASS">
+        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:08 GMT-04:00" name="extentSetup" finished-at="2020-05-31T15:57:08 GMT-04:00" duration-ms="122" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -24,7 +24,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:33 GMT-04:00" name="setUp" finished-at="2020-05-29T23:14:35 GMT-04:00" duration-ms="2121" status="PASS">
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:08 GMT-04:00" name="setUp" finished-at="2020-05-31T15:57:16 GMT-04:00" duration-ms="8456" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:35 GMT-04:00" name="startExtent" finished-at="2020-05-29T23:14:35 GMT-04:00" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:16 GMT-04:00" name="startExtent" finished-at="2020-05-31T15:57:16 GMT-04:00" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -76,11 +76,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method signature="testSearchBox()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:35 GMT-04:00" name="testSearchBox" finished-at="2020-05-29T23:14:37 GMT-04:00" duration-ms="1883" status="PASS">
+        <test-method signature="testSearchBox()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:16 GMT-04:00" name="testSearchBox" finished-at="2020-05-31T15:57:17 GMT-04:00" duration-ms="1116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchBox -->
-        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:37 GMT-04:00" name="afterEachTestMethod" finished-at="2020-05-29T23:14:38 GMT-04:00" duration-ms="335" status="PASS">
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:17 GMT-04:00" name="afterEachTestMethod" finished-at="2020-05-31T15:57:18 GMT-04:00" duration-ms="333" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -91,11 +91,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:38 GMT-04:00" name="cleanUp" finished-at="2020-05-29T23:14:38 GMT-04:00" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:18 GMT-04:00" name="cleanUp" finished-at="2020-05-31T15:57:18 GMT-04:00" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-29T23:14:38 GMT-04:00" name="generateReport" finished-at="2020-05-29T23:14:38 GMT-04:00" duration-ms="27" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:testhome.TestHomePage@2d2e5f00]" started-at="2020-05-31T15:57:18 GMT-04:00" name="generateReport" finished-at="2020-05-31T15:57:18 GMT-04:00" duration-ms="28" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->

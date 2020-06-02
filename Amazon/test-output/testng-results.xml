@@ -5,16 +5,16 @@
       <![CDATA[Extent Report Directory/Users/denysmyronenko/IdeaProjects/Learn_WebAutomation_Framework_WeekDays_Winter_NY2020/Amazon/test-output/html]]>
     </line>
   </reporter-output>
-  <suite started-at="2020-05-29T23:16:05 GMT-04:00" name="Amazon Automation Script" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="3978">
+  <suite started-at="2020-05-30T23:57:18 GMT-04:00" name="Amazon Automation Script" finished-at="2020-05-30T23:57:26 GMT-04:00" duration-ms="7401">
     <groups>
     </groups>
-    <test started-at="2020-05-29T23:16:05 GMT-04:00" name="Amazon Home" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="3978">
+    <test started-at="2020-05-30T23:57:18 GMT-04:00" name="Amazon Home" finished-at="2020-05-30T23:57:26 GMT-04:00" duration-ms="7401">
       <class name="testhome.TestHomePage">
-        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:05 GMT-04:00" name="extentSetup" finished-at="2020-05-29T23:16:05 GMT-04:00" duration-ms="150" status="PASS">
+        <test-method is-config="true" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:18 GMT-04:00" name="extentSetup" finished-at="2020-05-30T23:57:18 GMT-04:00" duration-ms="190" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@72bca894]]>
+                <![CDATA[org.testng.TestRunner@6d1310f6]]>
               </value>
             </param>
           </params>
@@ -24,7 +24,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:05 GMT-04:00" name="setUp" finished-at="2020-05-29T23:16:07 GMT-04:00" duration-ms="1851" status="PASS">
+        <test-method is-config="true" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:18 GMT-04:00" name="setUp" finished-at="2020-05-30T23:57:24 GMT-04:00" duration-ms="6042" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:07 GMT-04:00" name="startExtent" finished-at="2020-05-29T23:16:07 GMT-04:00" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:24 GMT-04:00" name="startExtent" finished-at="2020-05-30T23:57:24 GMT-04:00" duration-ms="5" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -76,26 +76,26 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method signature="testSearchBox()[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:07 GMT-04:00" name="testSearchBox" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="1760" status="PASS">
+        <test-method signature="testSearchBox()[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:24 GMT-04:00" name="testSearchBox" finished-at="2020-05-30T23:57:25 GMT-04:00" duration-ms="952" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchBox -->
-        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:09 GMT-04:00" name="afterEachTestMethod" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="339" status="PASS">
+        <test-method is-config="true" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:25 GMT-04:00" name="afterEachTestMethod" finished-at="2020-05-30T23:57:26 GMT-04:00" duration-ms="378" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testSearchBox status=SUCCESS method=TestHomePage.testSearchBox()[pri:0, instance:testhome.TestHomePage@d6da883] output={null}]]]>
+                <![CDATA[[TestResult name=testSearchBox status=SUCCESS method=TestHomePage.testSearchBox()[pri:0, instance:testhome.TestHomePage@1442d7b5] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:09 GMT-04:00" name="cleanUp" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:26 GMT-04:00" name="cleanUp" finished-at="2020-05-30T23:57:26 GMT-04:00" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method is-config="true" signature="generateReport()[pri:0, instance:testhome.TestHomePage@d6da883]" started-at="2020-05-29T23:16:09 GMT-04:00" name="generateReport" finished-at="2020-05-29T23:16:09 GMT-04:00" duration-ms="27" status="PASS">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:testhome.TestHomePage@1442d7b5]" started-at="2020-05-30T23:57:26 GMT-04:00" name="generateReport" finished-at="2020-05-30T23:57:26 GMT-04:00" duration-ms="32" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->

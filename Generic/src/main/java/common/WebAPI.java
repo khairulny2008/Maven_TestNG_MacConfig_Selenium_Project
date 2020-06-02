@@ -300,6 +300,7 @@ public class WebAPI {
 
     }
 
+
     public void clickByXpath(String locator) {
         driver.findElement(By.xpath(locator)).click();
     }
