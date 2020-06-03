@@ -10,33 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d882097-2cdb-4cab-8da5-d613e316fe39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/New.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/report-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/report-config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script/Amazon Home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-testhome.TestHomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-testhome.TestHomePage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon Automation Script/Amazon Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/Amazon Automation Script/Amazon Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon Automation Script/Amazon Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/Amazon Automation Script/Amazon Home.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-testhome.TestHomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-testhome.TestHomePage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon Automation Script/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon Automation Script/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon Automation Script/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/old/Amazon Automation Script/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/test-output/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/common/MobileAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d882097-2cdb-4cab-8da5-d613e316fe39" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,10 +182,10 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="663" y="482" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1097@0.23.1792.1097" timestamp="1590809793037" />
-    <state x="544" y="457" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590810225846">
+    <state x="544" y="457" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1591142254743">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="544" y="457" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1590810225846" />
+    <state x="544" y="457" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1591142254743" />
     <state x="280" y="141" key="new project wizard" timestamp="1591042334144">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
